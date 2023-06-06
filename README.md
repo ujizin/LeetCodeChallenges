@@ -18,3 +18,4 @@ The goal is to complete at least one challenge every day.
 | 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix)  | [Kotlin](/challenges/the-weakest-rows-in-a-matrix/TheWeakestRowsInAMatrix.kt) | Easy |
 | 1 | [Two sum](https://leetcode.com/problems/two-sum)  | [Kotlin](/challenges/two-sum/TwoSum.kt.kt) | Easy |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Kotlin](/challenges/longest-substring-without-repeating-characters/LongestSubstringWithoutRepeatingCharacters.kt) | Medium |
+| 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Kotlin](/challenges/number-of-steps-to-reduce-to-a-number-zero/NumberOfStepsToReduceToANumberZero.kt) | Easy |
