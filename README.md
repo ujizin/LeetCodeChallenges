@@ -17,3 +17,4 @@ The goal is to complete at least one challenge every day.
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)  | [Kotlin](/challenges/middle-of-the-linked-list/MiddleOfTheLinkedList.kt) | Easy |
 | 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix)  | [Kotlin](/challenges/the-weakest-rows-in-a-matrix/TheWeakestRowsInAMatrix.kt) | Easy |
 | 1 | [Two sum](https://leetcode.com/problems/two-sum)  | [Kotlin](/challenges/two-sum/TwoSum.kt.kt) | Easy |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Kotlin](/challenges/longest-substring-without-repeating-characters/LongestSubstringWithoutRepeatingCharacters.kt) | Medium |
