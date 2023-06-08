@@ -22,3 +22,4 @@ The goal is to complete at least one challenge every day.
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [Kotlin](/challenges/richest-customer-wealth/RichestCustomerWealth.kt) | Easy |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)  | [Kotlin](/challenges/running-sum-of-1d-array/RunningSumOf1dArray.kt) | Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Kotlin](/challenges/add-two-numbers/AddTwoNumbers.kt) | Medium |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Kotlin](/challenges/valid-parentheses/ValidParentheses.kt) | Easy |
