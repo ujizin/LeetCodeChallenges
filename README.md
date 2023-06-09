@@ -24,3 +24,6 @@ The goal is to complete at least one challenge every day.
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Kotlin](/challenges/add-two-numbers/AddTwoNumbers.kt) | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Kotlin](/challenges/valid-parentheses/ValidParentheses.kt) | Easy |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Kotlin](/challenges/palindrome-number/PalindromeNumber.kt) | Easy |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Kotlin](/challenges/merged-two-sorted-lists/MergedTwoSortedLists.kt) | Easy |
+| 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence) | [Kotlin](/challenges/can-make-arithmetic-progression-from-sequence/CanMakeArithmeticProgressionFromSequence.kt) | Easy |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Kotlin](/challenges/contains-duplicate/ContainsDuplicate.kt) | Easy |
