@@ -2,7 +2,7 @@
 
 This repository was exclusively created for registering LeetCode challenges!
 
-The goal is to complete at least one challenge every day.
+The goal is to complete at least one challenge each day.
 
 ## Challenges
 
