@@ -29,3 +29,4 @@ The goal is to complete at least one challenge each day.
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Kotlin](/challenges/contains-duplicate/ContainsDuplicate.kt) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Kotlin](/challenges/valid-palindrome/ValidPalindrome.kt) | Easy |
 | 217 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Kotlin](/challenges/keep-multiplying-found-values-by-two/KeepMultiplyingFoundValuesByTwo.kt) | Easy |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Kotlin](/challenges/valid-anagram/ValidAnagram.kt) | Easy |
