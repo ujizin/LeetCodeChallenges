@@ -30,3 +30,4 @@ The goal is to complete at least one challenge each day.
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Kotlin](/challenges/valid-palindrome/ValidPalindrome.kt) | Easy |
 | 217 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Kotlin](/challenges/keep-multiplying-found-values-by-two/KeepMultiplyingFoundValuesByTwo.kt) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Kotlin](/challenges/valid-anagram/ValidAnagram.kt) | Easy |
+| 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array) | [Kotlin](/challenges/separate-the-digits-in-an-array/SeparateTheDigitsInAnArray.kt) | Easy |
