@@ -7,6 +7,6 @@ class Solution {
             if (it - smallestNumber > maxValue) maxValue = it - smallestNumber 
         }
 
-        return maxValue.coerceAtLeast(0)
+        return maxValue
     }
 }
