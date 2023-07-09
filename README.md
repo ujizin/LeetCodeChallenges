@@ -32,3 +32,4 @@ The goal is to complete at least one challenge each day.
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Kotlin](/challenges/valid-anagram/ValidAnagram.kt) | Easy |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array) | [Kotlin](/challenges/separate-the-digits-in-an-array/SeparateTheDigitsInAnArray.kt) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Kotlin](/challenges/best-time-to-buy-and-sell-stock/BestTimeToBuyAndSellStock.kt) | Easy |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Kotlin](/challenges/longest-common-prefix/LongestCommonPrefix.kt) | Easy |
