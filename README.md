@@ -33,3 +33,5 @@ The goal is to complete at least one challenge each day.
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array) | [Kotlin](/challenges/separate-the-digits-in-an-array/SeparateTheDigitsInAnArray.kt) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Kotlin](/challenges/best-time-to-buy-and-sell-stock/BestTimeToBuyAndSellStock.kt) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Kotlin](/challenges/longest-common-prefix/LongestCommonPrefix.kt) | Easy |
+| 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | [Kotlin](/challenges/number-of-strings-that-appear-as-substrings-in-word/NumberOfStringsThatAppearAsSubstringsInWord.kt) | Easy |
+| 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree) | [Kotlin](/challenges/find-mode-in-binary-search-tree/FindNodeInBinarySearchTree.kt) | Easy |
